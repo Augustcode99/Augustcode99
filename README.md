@@ -17,8 +17,7 @@ Ex English Teacher who fell in love with coding.<br>Currently in my last month o
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="git" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;"> </a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Augustcode99&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Augustcode99&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Augustcode99&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=Augustcode99&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Augustcode99&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 ---
