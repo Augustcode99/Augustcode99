@@ -1,7 +1,7 @@
 <div align="center">
   
-# 💫 Welcome:
-Hey there, I'm Burak<br>Ex English Teacher who fell in love with coding.<br>Currently in my last month of a frontend bootcamp. I am the team leader in my group here.<br>I’m expanding my knowledge of Javascript and React.js by building small projects.
+# Hey there, I'm Burak
+Ex English Teacher who fell in love with coding.<br>Currently in my last month of a frontend bootcamp. I am the team leader in my group here.<br>I’m expanding my knowledge of Javascript and React.js by building small projects.
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burak-odabasi) 
@@ -18,8 +18,7 @@ Hey there, I'm Burak<br>Ex English Teacher who fell in love with coding.<br>Curr
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/? <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Augustcode99&theme=algolia&hide_border=false)
-  username=Augustcode99&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Augustcode99&theme=algolia&hide_border=false)username=Augustcode99&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Augustcode99&icon=0&color=0)](https://visitcount.itsvg.in)
