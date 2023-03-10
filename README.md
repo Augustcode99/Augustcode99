@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hey there, I'm Burak
-I am passionate about programming and love learning new things.<br>👨‍🎓 Currently in my last month of a frontend bootcamp. I am the team leader in my group here.<br>👨‍💻 I’m expanding my knowledge of Javascript and React.js by building small projects.
+🔥 I am passionate about programming and love learning new things.<br>👨‍🎓 Currently in my last month of a frontend bootcamp. I am the team leader in my group here.<br>👨‍💻 I’m expanding my knowledge of Javascript and React.js by building small projects.
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burak-odabasi) 
