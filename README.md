@@ -1,8 +1,7 @@
-<div align="center">
 # 💫 About Me:
 Hey there, I'm Burak<br>Ex English Teacher who fell in love with coding.<br>Currently in my last month of a frontend bootcamp. I am the team leader in my group here.<br>I’m expanding my knowledge of Javascript and React.js by building small projects.
 
-
+<div align="center">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burak-odabasi) 
 
